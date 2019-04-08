@@ -9,7 +9,7 @@
 ### Game Explanation
 
 This is the Arcade Game Master Project for Udacity's Front End Development Nanodegree. 
-The game resembles the frog who tries to cross the road game: control a player to move him until you reach the water blocks, while avoiding the enemies.
+The game resembles the frog who tries to cross the road game: control a player's movement until you reach the water blocks, while avoiding the enemies.
 If you cross the road the game resets. If you get hit by the enemies the player returns to starting position without reset of the enemies.
 
 ### Run the game
